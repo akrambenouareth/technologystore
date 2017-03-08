@@ -1,0 +1,60 @@
+#cat{
+  
+    color: #b16a6a; 
+    margin-left: 37px;
+    font-family: Hebrew;
+   
+}
+#phone{
+    display: block;
+    margin-left: 165px;
+    margin-top: 7px;
+    text-decoration: none;
+    color: black;
+}
+.Phones{
+    float: left;
+    margin-left: 140px;
+    margin-top: 65px;
+   
+    
+}
+#laptops{
+   display: block; 
+    margin-left: 250px;
+    margin-top:7px;
+    text-decoration: none;
+    color: black;
+}
+.Laptops{
+    float: right;
+    margin-right: 130px;
+    margin-top: 55px;
+}
+#headphons{
+    display: block;
+    text-decoration: none;
+    color: black;
+    margin-left: 154px;
+    margin-top:7px;
+}
+.Headphones{
+    position: relative;
+    float: left;
+    margin-left: 140px;
+    margin-top: 20px;
+    
+}
+#game-and-consoles{
+    display: block;
+     text-decoration: none;
+     color: black;
+     margin-left: 210px;
+     margin-top:7px;
+}
+.consoles-and-games{
+    float: right;
+    margin-right: 130px;
+    margin-top: 20px;
+    
+}

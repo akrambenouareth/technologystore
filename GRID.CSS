@@ -1,0 +1,38 @@
+/*
+width 1000px
+12 columns 
+grid width 65 px
+*/
+.grid1{width:6,5%; }
+.grid2{width:15%; }
+.grid3{width:23,5%; }
+.grid4{width:32%; }
+.grid5{width:40,5%; }
+.grid6{width: 49%;}
+.grid7{width: 57,5%;}
+.grid8{width:66%;}
+.grid9{width: 74,5%;}
+.grid10{width:83%; }
+.grid11{width:91,5%; }
+.grid12{width:100%; }
+
+.grid1,
+.grid2,
+.grid3,
+.grid4,
+.grid5,
+.grid6,
+.grid7,
+.grid8,
+.grid9,
+.grid10,
+.grid11,
+.grid12
+{
+margin: 0 2% 1% 0;
+float: left;
+display: block;
+}
+.alpha{margin-left: 0px;}
+.omega{margin-right: 0px;
+}
